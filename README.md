@@ -17,6 +17,7 @@ After applying filters hit enter and the filtered search will be shown on the ri
 To reset all filters click the UFO Sightings link at the top of the page.
 
 ## Summary
+The site does a good job of making it easy to filter the data and see what the filtered results show.
 
 The site has an initial drawback with the search field in that it is case sensative. This causes confusion because normally proper nouns such as cities, states and countries should be capitalized.
 
