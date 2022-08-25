@@ -7,10 +7,13 @@ We are designing a web application that will allow users to look through our UFO
 
 ### How to use filters
 When visiting the site you will notice the Filter Search on the left side of screen. You may then fill in some or all of the blanks to initiate a search.
+
 ![Blankfilters](https://github.com/marveld21/UFO-Sightings-with-Javascript/blob/main/images/Blankfilters.PNG)
 
 After applying filters hit enter and the filtered search will be shown on the right hand side.
+
 ![filteredsearch](https://github.com/marveld21/UFO-Sightings-with-Javascript/blob/main/images/filteredsearch.PNG)
+
 To reset all filters click the UFO Sightings link at the top of the page.
 
 ## Summary
